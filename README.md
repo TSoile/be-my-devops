@@ -10,7 +10,7 @@ Simple App made with Flask using virtual enviroment to isolate the dependencies.
 ## Setup
 
 Clone repository:
-git clone https://github.com/USERNAME/python-devops-app.git
+git clone https://github.com/TSoile/python-devops-app.git
 cd python-devops-app
 
 Create Virtual Enviroment:
@@ -29,4 +29,5 @@ Usage:
 Open in your browser : http://localhost:5000
 
 Expected Output : Will you be my DevOps <3
+
 
